@@ -3,7 +3,7 @@
     "composite": true,
     "skipLibCheck": true,
     "module": "ESNext",
-    "moduleResolution": "classic",
+    "moduleResolution": "node16",
     "allowSyntheticDefaultImports": true,
     "allowImportingTsExtensions": true
   },
